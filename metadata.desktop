@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Vida de Programador
+Comment=Vida de Programador
+Type=Service
+X-KDE-ServiceTypes=Plasma/Comic
+Icon=icon.png
+
+X-KDE-Library=plasma_comic_krossprovider
+X-KDE-PluginInfo-Author=Luiç
+X-KDE-PluginInfo-Email=oluisedu@gmail.com
+X-KDE-PluginInfo-Name=devlife
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=Kopimi
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PlasmaComicProvider-SuffixType=String
